@@ -13,8 +13,8 @@ Cuando la investigación se realiza desde el aula quiere decir que son los estud
 
 ¿Has participado alguna vez en un proyecto de investigación?¿Has propuesto a tu alumnado alguna vez un proyecto de investigación?¿Conoces alguna experiencia de proyectos de investigación en el aula?¿Fue exitosa la experiencia?¿Por qué?
 
-<input type="button" name="toggle-feedback-29" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
-
-### Retroalimentación
+%accordion%Retroalimentación%accordion%
 
 En la web del Programa Profundiza ([http://profundiza.org](http://profundiza.org)) puedes ver una gran variedad de proyectos de investigación tanto en Educación Primaria como en Educación Secundaria. Muchos de ellos tienen "diarios de proyecto" que te pueden servir para**profundizar** en su conocimiento.
+
+%/accordion%

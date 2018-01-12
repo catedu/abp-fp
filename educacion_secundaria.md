@@ -7,7 +7,7 @@ Aprender a través de proyectos en Educación Secundaria y Bachillerato no sólo
 
 ![](img/Secundaria.jpg)
 
-Proyectos transversales
+## Proyectos transversales
 
 **[El sonido que habito](https://sites.google.com/site/elsonidoquehabito/home)**
 
@@ -39,7 +39,7 @@ Viaja con nosotr@s pretende ser un lugar de encuentro donde sumemos las experien
 
 
 
-Agrupados por áreas
+## Agrupados por áreas
 
 
 

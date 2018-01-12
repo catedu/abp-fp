@@ -30,10 +30,12 @@ A continuación hemos seleccionado un par de proyectos colaborativos que utiliza
 
 ¿Qué herramientas has utilizado para la difusión de los resultados de tus proyectos?¿Cuáles utilizarías?
 
-<input type="button" name="toggle-feedback-33" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
-### Retroalimentación
+
+%accordion%Retroalimentación%accordion%
 
 En Eduteka ofrecen una interesante [lista de aplicaciones para compartir productos digitales](http://www.eduteka.org/CompartirProductosDigitales.php) que, en el caso de nuestros proyectos, puede servir para dar difusión a nuestros materiales.
 
 ¿Cuáles de las herramientas que aparecen listadas conoces?¿Cuáles utilizas o has utilizado?
+
+%/accordion%

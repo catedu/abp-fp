@@ -5,9 +5,9 @@
 
 Ya hemos hablado de Aprendizaje-Servicio al describir las posibilidades de Socialización Rica del alumnado dentro del Aprendizaje basado en Proyectos. Sin embargo, si estamos definiendo en esta reflexión el propio ABP como un proceso de aprendizaje del profesorado, ¿podría ser éste también un caso de Aprendizaje-Servicio desde la perspectiva del profesorado?
 
-<input type="button" name="toggle-feedback-22" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
-### Retroalimentación
+
+%accordion%Retroalimentación%accordion%
 
 Roser Batlle (en Puig, 2009: 80-85) propone cinco características del Aprendizaje-Servicio que pueden ser reveladoras desde la perspectiva del profesorado que diseña y gestiona el ABP:
 
@@ -18,6 +18,8 @@ Roser Batlle (en Puig, 2009: 80-85) propone cinco características del Aprendiza
 - El servicio a la comunidad es significativo y produce satisfacción.
 
 En este sentido, podemos diseñar experiencias de ABP que sean aprendizaje-servicio para el alumnado y para el profesorado, siempre que se cumplan estas características para todos los participantes en la experiencia.
+
+%/accordion%
 
 ![](img/love_formacion.jpg)
 

@@ -19,8 +19,6 @@ Así pues, podrían ser objetivos del aprendizaje-servicio actividades como
 - proyectos de solidaridad y cooperación,
 - ayuda educativa entre iguales, etc.
 
-<object type="application/x-shockwave-flash" data="http://www.think1.tv/layout/js/think1tv/mediaplayer-5.3/player.swf" id="player" width="320" height="240"><param name="src" value="http://www.think1.tv/layout/js/think1tv/mediaplayer-5.3/player.swf"></param><param name="allowscriptaccess" value="always"></param><param name="allowfullscreen" value="true"></param><param name="flashvars" value="file=http://www.think1.tv/layout/files/think1tv//ENTREVISTAS/roser-batlle-aprendizaje-servicio.flv.mp4"></param></object>
-
 El punto de partida del aprendizaje-servicio es detectar una necesidad de la comunidad (miembros de la comunidad educativa, barrio, familias, ciudad) que, a su vez, esté vinculada con los contenidos de las materias del currículo. A partir de esta necesidad se desarrolla el proyecto de aprendizaje-servicio en sus dos fases: aprendizaje de contenidos curriculares y prestación del servicio.
 
 Con frecuencia, además, la propuesta de investigación de campo y el aprendizaje-servicio se pueden combinar. Así, la investigación de campo permite no sólo detectar la necesidad sino también profundizar en la realidad natural o cultural sobre la cual después incidir. Así mismo, es también frecuente que un proyecto de aprendizaje-servicio implique establecer vínculos con asociaciones o grupos que trabajen en la misma zona o asunto que se está estudiando en clase; de esta forma el aprendizaje servicio contribuye, también, a la constitución de comunidades de aprendizaje, como veremos a continuación.

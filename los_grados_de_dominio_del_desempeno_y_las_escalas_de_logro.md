@@ -13,6 +13,8 @@ Gracias a una graduación de los dominios del desempeño podemos conocer en qué
 
 ![](img/Imagen_7_B3.jpg)
 
+Las competencias han de interpretarse como un proceso graduado que admite unas ciertas asignaciones de la adquisición para cada una de las etapas de la enseñanza obligatoria. Esto implica una profundización progresiva del dominio competencial con relación a cada dimensión a tener en cuenta, hecho que comporta, según el momento y las circunstancias, destacar más los aspectos cognitivos, procedimentales o actitudinales que conjuga cada competencia.
+
 Un buen ejemplo para la medición del dominio de una competencia es el que se refiere al [Marco común europeo de referencia para las lenguas](http://cvc.cervantes.es/ensenanza/biblioteca_ele/marco/), del Consejo de Europa. Este marco describe los grados de dominio en la competencia de comunicación en lengua extranjera. Se puede consultar este ejemplo de evaluación de competencias entre los documentos adjuntos en este bloque III.
 
 Así pues, hay que “escalar” los distintos grados de dominio de la competencia. Eso es, poner en una escala esos grados en función de los logros que supone cada grado. Es lo que llamamos “escala de logro”. Las escalas de logro se expresan en unos instrumentos que son las rúbricas.

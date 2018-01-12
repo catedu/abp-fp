@@ -19,9 +19,7 @@ En todo caso, estos agentes externos aportan al proyecto realismo y credibilidad
 
 ¿Has participado en alguna experiencia de comunidad de aprendizaje abierta?¿Conoces alguna?¿Ha sido exitosa?¿Por qué?
 
-<input type="button" name="toggle-feedback-21" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
-
-### Retroalimentación
+%accordion%Retroalimentación%accordion%
 
 En el CEIP San Walabonso, como vimos en el primer módulo, utilizan el Aprendizaje basado en Proyectos con una fuerte implicación de la familia.
 
@@ -37,3 +35,5 @@ En una segunda experiencia son las abuelas quienes hablan al alumnado sobre el v
 
 {% youtube %}https//www.youtube.com/watch?v=mfrf-oQ1--A?rel=0{% endyoutube %}
 Y ambas participaciones de abuelos y abuelas encajan con un proyecto educativo de centro que pretende hacer a los niños y niñas partícipes de una comunidad de aprendizaje abierta, como demuestra este [estudio de la población de Niebla](http://www.juntadeandalucia.es/averroes/sanwalabonso/uudd/migracion/index.htm) que ofrecen en la red.
+
+%/accordion%

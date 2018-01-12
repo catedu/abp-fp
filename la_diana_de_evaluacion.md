@@ -11,9 +11,7 @@ La diana es un método de evaluación participativa, rápido y muy visual, que n
 
 <iframe width="427" height="356" src="http://www.slideshare.net/slideshow/embed_code/11042952" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""></iframe>
 
-[****](https://www.slideshare.net/fqmanuel/evaluacin-participativa-la-dian)[******Presentación acerca de "****Evaluación participativa: la diana"  **from **Manuel Diaz**](http://www.slideshare.net/fqmanuel/evaluacin-participativa-la-diana?ref=http://127.0.0.1:51237/AbP_2015_04_21_B3_t2_mecanismoseva/authoring)****
-
- 
+[SlideShare](https://www.slideshare.net/fqmanuel/evaluacin-participativa-la-dian). [**Presentación acerca de "Evaluación participativa: la diana"** from **Manuel Diaz**](http://www.slideshare.net/fqmanuel/evaluacin-participativa-la-diana?ref=http://127.0.0.1:51237/AbP_2015_04_21_B3_t2_mecanismoseva/authoring) 
 
 Un ejemplo del uso de la diana en Infantil podría ser:
 

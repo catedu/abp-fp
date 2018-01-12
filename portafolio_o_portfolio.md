@@ -7,18 +7,15 @@ En la siguiente presentación puedes ver el sentido y los principios fundamental
 
 <iframe width="425" height="355" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/CNClACe8fG07Il" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""></iframe>
 
+[Los e-portfolios en Educación](http://www.slideshare.net/juanfratic/los-eportfolios-en-educacin) from [Juanfra Álvarez Herrero](http://www.slideshare.net/juanfratic)
+
 El portafolios es una herramienta flexible de evaluación que nos permite recoger evidencias y reflexiones sobre el proceso de aprendizaje. En este sentido es un instrumento global que puede contener rúbricas, contratos de aprendizaje, elementos del diario de aprendizaje y demás herramientas de evaluación así como las evidencias que se acuerden con los estudiantes sobre su aprendizaje y el proceso de trabajo. 
 
 En el siguiente vídeo puedes ver una explicación detallada de cómo evaluar a través de portafolios:
 
 {% youtube %}https//www.youtube.com/watch?v=EzQc2yiKsLM{% endyoutube %}
-Y en el siguiente vídeo puedes ver la mesa redonda sobre el uso de portafolios y rúbricas para la evaluación de competencias celebrada en AulaBlog12 (CITA-FGSR, Peñaranda de Bracamonte). En ella participan Víctor Cuevas, Charo Fernández y César Poyatos:
 
-<iframe width="533" height="328" src="http://cita.fundaciongsr.com/tv/main.php?id=989" frameborder="0" scrolling="no"></iframe>
-
-[Vídeo sobre los diversos métodos para la creación de portafolios (62:53)](http://cita.fundaciongsr.com/tv/main.php?id=989)
-
-Como has podido ver, hay muchas formas distintas de poder crear un portafolios. Podríamos usar, entre otras:
+Hay muchas formas distintas de poder crear un portafolios. Podríamos usar, entre otras:
 
 - [Google Sites](https://sites.google.com/site/eportfolioapps/online-tutorials-sites/sites-how-to)
 - [Plataformas de **blogging**](http://www.xarxatic.com/el-b-portfolio-educativo-entre-la-facilidad-y-la-utilidad/)

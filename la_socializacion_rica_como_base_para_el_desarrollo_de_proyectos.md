@@ -4,6 +4,7 @@
 Una de las claves del aprendizaje basado en proyectos es la relación entre el proyecto de aprendizaje y la realidad exterior al aula.
 
 {% youtube %}https//www.youtube.com/watch?v=BO-mWVLP_z8?rel=0{% endyoutube %}
+
 Así, en la [Guía del Aprendizaje basado en Proyectos](http://naf.org/resources/project-based-learning-guide) de National Academy Foundation y Pearson Foundation se señalan seis criterios de calidad:
 
 - Autenticidad

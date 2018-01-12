@@ -12,6 +12,7 @@ Todas estas estrategias de enseñanza y aprendizaje establecen una diferencia re
 Para definir qué significa Aprendizaje Basado en Proyectos podemos ver una explicación en vídeo realizada por [BIEPBL](http://youtu.be/wL4n-PdQXGs) al estilo "[Common Crafts](http://www.commoncraft.com/)":
 
 {% youtube %}https//www.youtube.com/watch?v=wL4n-PdQXGs{% endyoutube %}
+
 Y de manera más cercana dos educadores, [Daniel Sánchez](http://twitter.com/dasava) y [Diego Ojeda](http://twitter.com/interele), te explican qué es aprender a través de proyectos desde su propia experiencia:
 
 <iframe width="640" height="400" src="https://video.thinglink.com/videos/621657661460447232" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen=""></iframe>

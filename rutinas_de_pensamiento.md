@@ -3,11 +3,7 @@
 
 Las rutinas de pensamiento son unos instrumentos que entre otras cosas, pueden servir para plantear una evaluación inicial en un proyecto donde podamos valorar los contenidos y experiencias previas de los alumnos así como activar su motivación para trabajar un tema.Son estructuras con las que los alumnos, de una manera individual o colectiva, inician, discuten, gestionan su pensamiento a la vez que descubren modelos de conducta que permiten utilizar la mente para generar pensamientos, reflexionar y razonar. Son estrategias breves y fáciles de aprender que orientan el pensamiento de los estudiantes y dan estructura a las discusiones de aula. Si se practican con frecuencia y flexibilidad, acaban convirtiéndose en el modo natural de pensar y operar con los contenidos curriculares dentro del aula.
 
-En los vídeos Destrezas de Pensamiento en Infantil de [Think1.tv](http://www.think1.tv/) puedes ver como aplican rutinas de pensamiento en una clase de infantil:
-|<object type="application/x-shockwave-flash" data="http://www.think1.tv/layout/js/think1tv/mediaplayer-5.3/player.swf" id="player" width="320" height="240"><param name="src" value="http://www.think1.tv/layout/js/think1tv/mediaplayer-5.3/player.swf"></param><param name="allowscriptaccess" value="always"></param><param name="allowfullscreen" value="true"></param><param name="flashvars" value="file=http://www.think1.tv/layout/files/think1tv//PROYECTOSDOCENTES/destrezas-pensamiento-infantil-compara-y-contrasta.mp4"></param></object>|<object type="application/x-shockwave-flash" data="http://www.think1.tv/layout/js/think1tv/mediaplayer-5.3/player.swf" id="player" width="320" height="240"><param name="src" value="http://www.think1.tv/layout/js/think1tv/mediaplayer-5.3/player.swf"></param><param name="allowscriptaccess" value="always"></param><param name="allowfullscreen" value="true"></param><param name="flashvars" value="file=http://www.think1.tv/layout/files/think1tv//PROYECTOSDOCENTES/destrezas-pensamiento-infantil-partes-y-todo.mp4"></param></object>
-|**Compara y contrasta**|**Partes y todo**
-
-
+En los vídeos Destrezas de Pensamiento en Infantil de [Think1.tv](http://www.think1.tv/) puedes ver como aplican rutinas de pensamiento en una clase de infantil.
 
 ## El semáforo
 

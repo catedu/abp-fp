@@ -5,13 +5,13 @@
 
 La gestión de proyectos de aprendizaje se ve reforzada si se dispone de un PLE rico y variado. Pero, ¿tienes claro qué es un PLE?
 
-<input type="button" name="toggle-feedback-10" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
-
-### Retroalimentación
+%accordion%Retroalimentación%accordion%
 
 David &Aacute;lvarez ([@balhisay](http://twitter.com/balhisay)) define en su blog [e-aprendizaje](http://e-aprendizaje.es) el PLE o **entorno personal de aprendizaje** como un conjunto de herramientas, servicios y conexiones que facilitan el aprendizaje. Este concepto, fundamental hoy para comprender los procesos de aprendizaje informal (y también los formales, obviamente), puede ser ampliado para comprender el uso que hacemos de la propia tecnología. Así, un docente con un PLE rico y variado utiliza de manera más eficaz y creativa [una herramienta como la PDI](http://www.educacontic.es/blog/una-mirada-la-pdi-desde-el-concepto-de-ple) que otro docente que se limite a saber manejar el software preinstalado en la pizarra.
 
 En el mismo sentido, un docente o un equipo de docentes que dispongan de un PLE bien desarrollado tienen ventaja a la hora de gestionar un proyecto de aprendizaje: las herramientas y los servicios en la red así como las conexiones que la red nos permite hacer nos ayudan a la hora de definir, implementar e incluso evaluar y difundir el proyecto.
+
+%/accordion%
 
 ![](img/PLE2.jpg)
 

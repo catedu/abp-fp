@@ -3,7 +3,7 @@
 
 El Aprendizaje Basado en Proyectos se puede poner en funcionamiento en cualquier etapa del sistema educativo, desde Educación Infantil hasta la Universidad. En esta sección puedes conocer algunas prácticas de referencia en Educación Infantil y Primaria. ¿Empezamos?
 
-Infantil
+## Infantil
 
 **[Robótica educativa en educación infantil](http://olmedarein7.wix.com/roboticainfantil#)**
 
@@ -41,7 +41,7 @@ Con este proyecto se intenta crear un punto de encuentro en el que todas aquella
 
 
 
-Primaria
+## Primaria
 
 [**Platero que ni pintado**](http://inmacs2010.wix.com/plateroquenipintado#!about-us/cjg9)
 

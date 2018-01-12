@@ -9,15 +9,16 @@ Imagen:[ Robert van Geenhulzen](https://www.flickr.com/photos/45154372@N07/12849
 
 Para gestionar los proyectos podríamos distinguir las siguientes fases:
 
-<li>Actividades de Inicio del Proyecto
-<ul>
-- Establecimiento de objetivos, retos, productos y evaluación
-- Búsqueda de apoyos y recursos
-- Planificación del proyecto
+* Actividades de Inicio del Proyecto
+    * Establecimiento de objetivos, retos, productos y evaluación
+    *  Búsqueda de apoyos y recursos
+    *  Planificación del proyecto
 
-- Implementación
-- Seguimiento
+* Actividades de Desarrollo del Proyecto
+    * Implementación
+    * Seguimiento
 
-- Cierre del Proyecto
-- Registro
-- Difusión
+* Actividades de Finalización del Proyecto
+    * Cierre del Proyecto
+    * Registro
+    * Difusión

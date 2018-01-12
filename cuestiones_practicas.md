@@ -33,9 +33,7 @@ Para mantener un nivel y una calidad de comunicación aceptables, el tamaño del
 
 ¿Cuál es el tamaño ideal para un grupo cooperativo?¿De qué depende su tamaño?
 
-<input type="button" name="toggle-feedback-19" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
-
-### Retroalimentación
+%accordion%Retroalimentación%accordion%
 
 El tamaño de un grupo cooperativo depende de dos relaciones:
 
@@ -43,3 +41,5 @@ El tamaño de un grupo cooperativo depende de dos relaciones:
 - cuanto más difícil sea la actividad que deben realizar, menor debe ser su tamaño.
 
 Así pues, comienza por parejas cooperativas, pasa después a cuartetos combinando dos parejas y crece finalmente a grupos de seis o siete miembros cuando veas al grupo-clase suficientemente experimentado.
+
+%/accordion%

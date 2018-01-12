@@ -1,9 +1,10 @@
 # Summary
 
 * [Introducción](README.md)
+* [Objetivos y contenidos](objetivos-y-contenidos.md)
 
 ____
-### ABP_FP: Definición de ABP
+### 1. Definición de ABP
 * [El Aprendizaje basado en Proyectos](el_aprendizaje_basado_en_proyectos.md0.md)
     * [¿Qué es, cómo es, dónde está?](que_es_como_es_donde_esta.md)
         * [Enseñanza directa y ABP](ensenanza_directa_y_abp.md)
@@ -14,7 +15,7 @@ ____
         * [Educación Infantil y Primaria](educacion_infantil_y_primaria.md)
         * [Educación Secundaria](educacion_secundaria.md)
 ____
-### ABP_FP: El ABP paso a paso
+### 2. El ABP paso a paso
 * [Implementación del ABP en el aula](implementacion_del_abp_en_el_aula.md1.md)
     * [El proceso del ABP](el_proceso_del_abp.md)
     * [Cómo aplicar el ABP paso a paso](como_aplicar_el_abp_paso_a_paso.md)
@@ -27,7 +28,7 @@ ____
         * [Presentación del proyecto y difusión](presentacion_del_proyecto_y_difusion.md)
         * [Evaluación y reflexión sobre lo aprendido](evaluacion_y_reflexion_sobre_lo_aprendido.md)
 ____
-### ABP_FP: Apertura del aula en los proyectos: socialización y TIC
+### 3. Apertura del aula en los proyectos: socialización y TIC
 * [Apertura del aula en los proyectos: socialización y TIC](apertura_del_aula_en_los_proyectos_socializacion_y_tic.md2.md)
     * [La socialización rica como base para el desarrollo de proyectos](la_socializacion_rica_como_base_para_el_desarrollo_de_proyectos.md)
     * [Movimiento en el aula: aprendizaje cooperativo](movimiento_en_el_aula_aprendizaje_cooperativo.md)
@@ -44,7 +45,7 @@ ____
         * [El aprendizaje-servicio: metodologia y estrategias](el_aprendizaje-servicio_metodologia_y_estrategias.md)
         * [Las TIC al servicio de la investigación de campo y el aprendizaje-servicio](las_tic_al_servicio_de_la_investigacion_de_campo_y_el_aprendizaje-servicio.md)
 ____
-### ABP_FP: Comunidades de aprendizaje y TIC
+### 4. Comunidades de aprendizaje y TIC
 * [Apertura del aula en los proyectos: socialización y TIC](apertura_del_aula_en_los_proyectos_socializacion_y_tic.md3.md)
     * [La socialización rica como base para el desarrollo de proyectos](la_socializacion_rica_como_base_para_el_desarrollo_de_proyectos.md3.md)
     * [Movimiento hacia dentro del aula: comunidad de aprendizaje](movimiento_hacia_dentro_del_aula_comunidad_de_aprendizaje.md)
@@ -57,7 +58,7 @@ ____
         * [Modelo SAMR](modelo_samr.md)
     * [Para saber más](para_saber_mas.md)
 ____
-### ABP_FP: La evaluación en el Aprendizaje basado en Proyectos
+### 5. La evaluación en el Aprendizaje basado en Proyectos
 * [La evaluación en el ABP](la_evaluacion_en_el_abp.md4.md)
     * [Una evaluación alternativa para una enseñanza alternativa](una_evaluacion_alternativa_para_una_ensenanza_alternativa.md)
     * [La evaluación en el AbP](la_evaluacion_en_el_abp.md)
@@ -68,7 +69,7 @@ ____
         * [Los “grados de dominio” del desempeño y las “escalas de logro”](los_grados_de_dominio_del_desempeno_y_las_escalas_de_logro.md)
     * [Para saber más](para_saber_mas.md4.md)
 ____
-### ABP_FP: Mecanismos de evaluación
+### 6. Mecanismos de evaluación
 * [Mecanismos de evaluación](mecanismos_de_evaluacion.md5.md)
     * [El diario de aprendizaje](el_diario_de_aprendizaje.md)
     * [Rúbricas](rubricas.md)
@@ -79,7 +80,7 @@ ____
     * [Rutinas de pensamiento](rutinas_de_pensamiento.md)
     * [Para saber más](para_saber_mas.md5.md)
 ____
-### ABP_FP: La gestión de proyectos de aprendizaje en el centro escolar
+### 7. La gestión de proyectos de aprendizaje en el centro escolar
 * [Aprendizaje basado en Proyectos en tu centro y en tu comunidad profesional de aprendizaje](aprendizaje_basado_en_proyectos_en_tu_centro_y_en_tu_comunidad_profesional_de_aprendizaje.md6.md)
     * [El centro como ecosistema](el_centro_como_ecosistema.md)
         * [La gestión de proyectos de aprendizaje en el centro escolar](la_gestión_de_proyectos_de_aprendizaje_en_el_centro_escolar.md)
@@ -89,7 +90,7 @@ ____
         * [El PLE al servicio del AbP](el_ple_al_servicio_del_abp.md)
     * [Para saber más](para_saber_mas.md6.md)
 ____
-### ABP_FP: La enseñanza basada en proyectos como proceso de capacitación y desarrollo profesional docente
+### 8. La enseñanza basada en proyectos como proceso de capacitación y desarrollo profesional docente
 * [La enseñanza basada en proyectos como proceso de capacitación y desarrollo profesional docente](la_enseñanza_basada_en_proyectos_como_proceso_de_capacitación_y_desarrollo_profesional_docente.md7.md)
     * [Análisis de las posibilidades de capacitación y desarrollo profesional vinculadas con el diseño de proyectos de aprendizaje](análisis_de_las_posibilidades_de_capacitación_y_desarrollo_profesional_vinculadas_con_el_diseño_de_proyectos_de_aprendizaje.md)
         * [El ABP como auto-formación](el_abp_como_auto-formacion.md)
@@ -97,3 +98,8 @@ ____
         * [El ABP como investigación-acción](el_abp_como_investigacion-accion.md)
         * [El ABP como aprendizaje-servicio](el_abp_como_aprendizaje-servicio.md)
     * [Para saber más](para_saber_mas.md7.md)
+
+### Información del curso
+* [Créditos](crditos.md)
+
+### CC BY SA Este curso y sus materiales se distribuyen con licencia Creative Commons Con tenido creado por el **Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado Ministerio de Educación, Cultura y Deporte**

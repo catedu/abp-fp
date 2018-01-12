@@ -33,9 +33,9 @@ Por último, tras todo el esfuerzo realizado, aún queda una última responsabi
 
 ¿Qué ventajas reporta difundir el proyecto?¿Cómo podemos hacerlo?¿Cómo lo has hecho tú en los proyectos que has realizado anteriormente?
 
-<input type="button" name="toggle-feedback-9" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
-### Retroalimentación
+
+%accordion%Retroalimentación%accordion%
 
 Tenemos la responsabilidad de difundir nuestro proyecto porque esto beneficia a:
 
@@ -45,17 +45,12 @@ Tenemos la responsabilidad de difundir nuestro proyecto porque esto beneficia a:
 - el centro educativo, cuyo nombre se asocia a un proyecto exitoso y le puede permitir encontrar apoyos y recursos para objetivos posteriores;
 - toda la comunidad educativa, que aprende de nuestro proyecto, incorporándolo al acervo común con la posibilidad de replicarlo o adaptarlo a la idiosincrasia de cada centro educativo.
 
-Aunque  los medios de comunicación locales siguen siendo una vía insustituible para la difusión de los proyectos realizados por un centro educativo, para difundirlo hoy tenemos en la Red el espacio ideal. Crear una web del proyecto con todos los materiales y las evidencias y difundir la web a través de las redes sociales es un primer paso interesante; mira qué vivo está el **hashtag** #ABP en Twitter:
-
-[Tweets sobre #ABP](https://twitter.com/hashtag/ABP)
-<script type="text/javascript">// &lt;![CDATA[
-
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-// ]]&gt;</script>
-
+Aunque  los medios de comunicación locales siguen siendo una vía insustituible para la difusión de los proyectos realizados por un centro educativo, para difundirlo hoy tenemos en la Red el espacio ideal. Crear una web del proyecto con todos los materiales y las evidencias y difundir la web a través de las redes sociales es un primer paso interesante.
 
 Puedes también escribir sobre ella en blogs o sitios especializados, lo cual permite darlo a conocer a un amplio foro de profesionales y personas interesadas en la educación. Existen, por ejemplo, grupos muy interesantes en las redes sociales donde puedes compartir tu trabajo y difundir vuestro proyecto. Un ejemplo es [Proyéctate](http://proyectate.ning.com/):
 
 <iframe width="550" height="400" src="http://prezi.com/embed/yyqt3ybacpzz/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" frameborder="0"></iframe>
 
 Por último, tampoco deberíamos olvidar presentar nuestro proyecto a algún premio educativo para poder tener así una valoración (e incluso un reconocimiento) externo. La [Red de Buenas PrácTICas 2.0](http://recursostic.educacion.es/buenaspracticas20/web/) es un buen ejemplo de reconocimiento de proyectos de aprendizaje y los [Premios Europeos eTwinning](http://www.etwinning.es/es/inicio/ultimas-noticias/677-convocatoria-de-premios-europeos-etwinning-2013) son uno de los muchos premios donde puedes presentar tu proyecto.
+
+%/accordion%
