@@ -1,4 +1,4 @@
-# ABP para profesores de ABP
+# ABP
 
 ### Introducción
 
