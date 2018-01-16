@@ -3,7 +3,7 @@
 
 El Aprendizaje Basado en Proyectos motiva a los alumnos, ya que es un uso auténtico de la tecnología, facilita el aprendizaje activo, el pensamiento crítico, la colaboración y la creatividad. Los proyectos comienzan con una pregunta abierta que prepara el terreno creando interés y curiosidad. Escribir una pregunta guía eficaz es sorprendentemente difícil. Debe ser interesante e irresistible para los estudiantes, muy diferente a las típicas preguntas que se encuentran en los exámenes. Captura el corazón del proyecto utilizando un lenguaje claro y convincente, creando un propósito. Podríamos llamarla también el reto, el desafío inicial... La pregunta guía debe expresar de forma sencilla un dilema del mundo real, uno que realmente importe a los alumnos y quieran resolver; ha de impulsar a los estudiantes a discutir, preguntar e investigar el tema; debe empujarlos hacia una producción o solución. En el proceso de investigación colaborativa los estudiantes aprenden contenidos y habilidades importantes.
 
-Para plantear un pregunta guía se puede utilizar el  objeto de interés de los estudiantes como punto de partida y luego conectarlo creativamente a los estándares de aprendizaje. Aunque también puede hacerse al revés, desarrollar la pregunta guía determinando primero los estándares de aprendizaje que se van a trabajar. Al final, lo importante es que la pregunta debe exigir que los estudiantes aprendan habilidades y contenidos con el fin de responder a una pregunta** interesante para ellos**.
+Para plantear un pregunta guía se puede utilizar el  objeto de interés de los estudiantes como punto de partida y luego conectarlo creativamente a los resultados de aprendizaje y criterios de evaluación. Aunque también puede hacerse al revés, desarrollar la pregunta guía determinando primero los resultados de aprendizaje y los criterios de evaluación que se van a trabajar. Al final, lo importante es que la pregunta debe exigir que los estudiantes aprendan habilidades y contenidos con el fin de responder a una pregunta** interesante para ellos**.
 
 Al diseñar las preguntas guía se debe procurar que tengan las siguientes características:
 
@@ -12,7 +12,7 @@ Al diseñar las preguntas guía se debe procurar que tengan las siguientes carac
 - Promuevan un mayor conocimiento de la materia. Los alumnos deben discutir y debatir aspectos controvertidos.
 - Representen un reto y alienten a los alumnos a confrontar cuestiones poco familiares o comunes.
 - Se extraigan de situaciones o problemáticas reales que sean interesantes en el mundo de los alumnos. De esta manera, se les alienta a analizar el mundo que los rodea y a participar en la mejora de su comunidad y de la sociedad en general.
-- Sean consistentes con los estándares curriculares. No es suficiente que la pregunta sea atractiva, es necesario además que lleve a los alumnos a desarrollar las habilidades y conocimientos definidos.
+- Sean consistentes con los criterios curriculares. No es suficiente que la pregunta sea atractiva, es necesario además que lleve a los alumnos a desarrollar las habilidades y conocimientos definidos.
 - Sean alcanzables, es decir, debe ser posible alcanzar una solución en forma de producto o servicio.
 
 Desarrollar preguntas guía es complejo, porque no hay una fórmula específica a seguir. Aquí te damos algunos ejemplos y estructuras para ayudarte.

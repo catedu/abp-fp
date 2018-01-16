@@ -1,7 +1,7 @@
 
-# Estándares de aprendizaje
+# Criterios de evaluación
 
-El producto final de un proyecto puede tener distintos formatos: un folleto, una campaña, una presentación, una investigación científica, una maqueta… Para definir el producto final que han de crear los alumnos deberás tener en cuenta las competencias y estándares de aprendizaje que van a desarrollarse. En las siguientes secciones te explicamos cómo diseñar el proyecto integrando las competencias y los estándares de aprendizaje descritos en la LOMCE.
+El producto final de un proyecto puede tener distintos formatos: un folleto, una campaña, una presentación, una investigación científica, una maqueta… Para definir el producto final que han de crear los alumnos deberás tener en cuenta las competencias y criterios de evaluación que van a desarrollarse. En las siguientes secciones te explicamos cómo diseñar el proyecto integrando las competencias y los estándares de aprendizaje descritos en la LOMCE.
 
 ## Las competencias clave
 
