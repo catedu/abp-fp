@@ -7,7 +7,7 @@ Una estructura cooperativa en el aula es aquella organización de la situación 
 
 Imagen: [Woodleywonderworks](http://www.flickr.com/photos/wwworks/1384952210/) con licencia CC by 2.0
 
-Desde los años setenta hasta la fecha no sólo hay múltiples experiencias de aprendizaje cooperativo en todo tipo de contextos sino que existe una [amplia evidencia científica](http://dialnet.unirioja.es/servlet/articulo?codigo=1957874) acerca de su efectividad: el aprendizaje cooperativo promueve tanto el aprendizaje como el desarrollo de las competencias básicas del alumnado. En este sentido, por ejemplo, es una herramienta fundamental para aspectos como la competencia social y ciudadana, aprender a aprender o la competencia en comunicación lingüística y resulta muy útil para dar realismo y sentido al resto de las competencias.
+Desde los años setenta hasta la fecha no sólo hay múltiples experiencias de aprendizaje cooperativo en todo tipo de contextos sino que existe una [amplia evidencia científica](http://dialnet.unirioja.es/servlet/articulo?codigo=1957874) acerca de su efectividad: el aprendizaje cooperativo promueve tanto el aprendizaje como el desarrollo de las competencias del alumnado. En este sentido, por ejemplo, es una herramienta fundamental para aspectos como la competencia social y ciudadana, aprender a aprender o la competencia en comunicación lingüística y resulta muy útil para dar realismo y sentido al resto de las competencias.
 
 ## Reflexión
 
