@@ -1,7 +1,7 @@
 
 # 8 Elementos esenciales para ABP
 
-Todo buen proyecto debe cumplir dos criterios fundamentales: debe tener sentido para los alumnos, deben percibirlo como algo que personalmente quieren hacer bien porque les importa. Además debe tener un propósito educativo, debe ser significativo, acorde a los resultados de aprendizaje y los criterios de evaluación del tema o materia que trata. 
+Todo buen proyecto debe cumplir dos criterios fundamentales: debe tener sentido para los alumnos, deben percibirlo como algo que personalmente quieren hacer bien porque les importa. Además debe tener un propósito educativo, debe ser significativo, acorde a los criterios de evaluación del tema o materia que trata. 
 
 Estos son los ocho elementos esenciales que debe incluir un buen proyecto.
 
