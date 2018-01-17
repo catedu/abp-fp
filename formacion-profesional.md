@@ -1,5 +1,9 @@
 # Formación Profesional
 
+El Aprendizaje Basado en Proyectos se puede poner en funcionamiento en cualquier etapa del sistema educativo, pero en la Formación Profesional 
+
+
+
 [Proyect@R - Magnetismo Aumentado](https://sites.google.com/a/bylinedu.es/proyectoar/)
 
 ### El proyecto se desarrolla dentro del módulo de Electrotecnia de 1er curso de Ciclos Formativos de Grado Medio, de la familia profesional de Instalaciones Eléctricas y Automáticas.
