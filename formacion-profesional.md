@@ -8,11 +8,15 @@
 
 Mil sonrisas para mil caras. Un proyecto de aprendizaje-servicio realizado en el ciclo formativo de **Atención a personas en situación de dependencia**
 
-
-
-Hospital virtual: 
+Hospital virtual:
 
 Que el alumnado de los ciclos formativos de la familia de sanidad complete su formación conociendo el funcionamiento coordinado de las distintas unidades que se integran en una organización sanitaria-hospitalaria y el papel que cada una de las profesiones sanitarias tiene en dicha organización.
 
+Diseña un programa de radio:
 
+Dentro del ciclo **Animación Sociocultural y Turística**
+
+se ha grabado un programa de radio con el objetivo de iniciar el entrenamiento de la comunicación oral a través de una actividad técnicamente compleja como es el diseño, programación y grabación de un programa de radio para un público objetivo joven.
+
+**EXPORTACIÓN 0,0: PROYECTO CICLO **Grado Superior de Comercio Internacional
 
