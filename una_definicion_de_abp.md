@@ -1,7 +1,7 @@
 
 # Una definición de ABP
 
-El aprendizaje basado en proyectos es una metodología que permite a los alumnos adquirir los conocimientos y competencias clave en el siglo XXI mediante la elaboración de proyectos que dan respuesta a problemas de la vida real. El aprendizaje y la enseñanza basados en proyectos forman parte del ámbito del "[aprendizaje activo](http://tecnologiaedu.us.es/mec2011/htm/tema4/3.htm)". Dentro de este ámbito encontramos junto al aprendizaje basado en proyectos otras metodologías como el aprendizaje basado en tareas, el aprendizaje basado en problemas, el aprendizaje por descubrimiento o el aprendizaje basado en retos.
+El aprendizaje basado en proyectos es una metodología que permite a los alumnos adquirir los conocimientos y competencias en el siglo XXI mediante la elaboración de proyectos que dan respuesta a problemas de la vida real. El aprendizaje y la enseñanza basados en proyectos forman parte del ámbito del "[aprendizaje activo](http://tecnologiaedu.us.es/mec2011/htm/tema4/3.htm)". Dentro de este ámbito encontramos junto al aprendizaje basado en proyectos otras metodologías como el aprendizaje basado en tareas, el aprendizaje basado en problemas, el aprendizaje por descubrimiento o el aprendizaje basado en retos.
 
 Todas estas estrategias de enseñanza y aprendizaje establecen una diferencia respecto a la "enseñanza directa" porque, entre otras cosas,
 

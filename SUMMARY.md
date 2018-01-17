@@ -14,7 +14,7 @@
   * [Prácticas de referencia en ABP](practicas_de_referencia_en_abp.md)
     * [Educación Infantil y Primaria](educacion_infantil_y_primaria.md)
     * [Educación Secundaria](educacion_secundaria.md)
-* [Formación Profesional](formacion-profesional.md)
+    * [Formación Profesional](formacion-profesional.md)
 
 ## 2. El ABP paso a paso
 
