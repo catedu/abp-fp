@@ -24,7 +24,7 @@
     * [Diseño de la pregunta guía \(driving question\)](diseno_de_la_pregunta_guia_driving_question.md)
     * [Trabajar en equipo](trabajar_en_equipo.md)
     * [Definir el producto final](definir_el_producto_final.md)
-    * [Estándares de aprendizaje](estandares_de_aprendizaje.md)
+    * [Criterios de evaluación](estandares_de_aprendizaje.md)
     * [Organización y planificación](organizacion_y_planificacion.md)
     * [Investigación](investigacion.md)
     * [Presentación del proyecto y difusión](presentacion_del_proyecto_y_difusion.md)

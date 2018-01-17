@@ -1,7 +1,7 @@
 
 # Criterios de evaluación
 
-El producto final de un proyecto puede tener distintos formatos: un folleto, una campaña, una presentación, una investigación científica, una maqueta… Para definir el producto final que han de crear los alumnos deberás tener en cuenta las competencias y criterios de evaluación que van a desarrollarse. En las siguientes secciones te explicamos cómo diseñar el proyecto integrando las competencias y los estándares de aprendizaje descritos en la LOMCE.
+El producto final de un proyecto puede tener distintos formatos: un folleto, una campaña, una presentación, una investigación científica, una maqueta… Para definir el producto final que han de crear los alumnos deberás tener en cuenta las competencias y los criterios de evaluación que van a desarrollarse. En las siguientes secciones te explicamos cómo diseñar el proyecto integrando las competencias y los criterios de evaluación.
 
 ## Las competencias clave
 
@@ -28,7 +28,7 @@ Por tanto, lo básico se entiende como algo mínimo y suficiente; y tiene un sen
 Todo buen proyecto debe cumplir dos criterios fundamentales: 
 
 - Debe tener sentido para los alumnos, deben percibirlo como algo que personalmente quieren hacer bien porque les importa.
-- Además debe tener un propósito educativo, debe ser significativo, acorde a los estándares de aprendizaje descritos en la LOMCE.
+- Además debe tener un propósito educativo, debe ser significativo, acorde a los criterios de evaluación.
 
 Para ayudar a docentes y centros educativos a integrar las competencias en la vida real del aula, el Centro Nacional de Innovación e Investigación Educativa (CNIIE), del Ministerio de Educación, Cultura y Deporte (MECD) ha elaborado recientemente una[ ](https://sede.educacion.gob.es/publiventa/detalle.action?cod=16109)**[Guía para la formación en centros sobre las competencias básicas](https://sede.educacion.gob.es/publiventa/detalle.action?cod=16109) **(2013). De acuerdo con esta guía, el procedimiento que se ha de llevar a cabo para la integración de las competencias en el quehacer diario del aula son:
 
