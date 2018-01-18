@@ -1,6 +1,9 @@
 # Formación Profesional
 
-El Aprendizaje Basado en Proyectos se puede poner en funcionamiento en cualquier etapa del sistema educativo, pero en la Formación Profesional 
+El Aprendizaje Basado en Proyectos se puede poner en funcionamiento en cualquier etapa del sistema educativo, pero en la Formación Profesional este tipo de metodología resulta imprescincible para que los alumnos puedan alcanzar las competencias profesionales.
+
+En esta sección puedes conocer algunas prácticas de referencia en Formación profesional. ¿Empezamos?
+
 
 
 **[Magnetismo Aumentado](https://sites.google.com/a/bylinedu.es/proyectoar)**
