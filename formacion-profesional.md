@@ -16,7 +16,7 @@ Se pretende crear una material de trabajo sobre la unidad de magnetismo y electr
 **[Hospital virtual](http://iescantabria.com/otros-proyectos/hospital-virtual/)**
 
 Que el alumnado de los ciclos formativos de la familia de sanidad complete su formación conociendo el funcionamiento coordinado de las distintas unidades que se integran en una organización sanitaria-hospitalaria y el papel que cada una de las profesiones sanitarias tiene en dicha organización.
-Para acceder al proyecto picha [aquí]()
+
 
 
 
