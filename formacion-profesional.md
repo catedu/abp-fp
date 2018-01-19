@@ -21,7 +21,7 @@ Que el alumnado de los ciclos formativos de la familia de sanidad complete su fo
 
 
 **[EXPORTACIÓN 0,0](https://sites.google.com/a/escuelaprofesionalxavier.com/cerocomacero/)**
-PROYECTO CICLO Grado Superior de Comercio Internacional
+Es un proyecto realizado en el Ciclo de Grado Superior de Comercio Internacional
 
 
 ## Otros proyectos
