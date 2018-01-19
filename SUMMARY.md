@@ -58,8 +58,6 @@
     * [Las TIC al servicio de la creación de una comunidad de aprendizaje abierta](las_tic_al_servicio_de_la_creacion_de_una_comunidad_de_aprendizaje_abierta.md)
   * [Las TIC en el AbP](las_tic_en_el_abp.md)
     * [RRSS: Desarrollo y difusión del proyecto](rrss_desarrollo_y_difusion_del_proyecto.md)
-    * [Fases en la integración de las TIC en educación](fases_en_la_integracion_de_las_tic_en_educacion.md)
-    * [Modelo SAMR](modelo_samr.md)
   * [Para saber más](para_saber_mas.md)
 
 ## 5. La evaluación en el Aprendizaje basado en Proyectos
