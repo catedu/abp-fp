@@ -10,7 +10,7 @@ En esta sección puedes conocer algunas prácticas de referencia en Formación p
 
 El proyecto se desarrolla dentro del módulo de Electrotecnia de los Ciclos Formativos de Grado Medio, de la familia profesional de Instalaciones Eléctricas y Automáticas.
 
-Se pretende crear una material de trabajo sobre la unidad de magnetismo y electromagnetismo, donde el tradicional libro de texto se convierte en un elemento interactivo mediante realidad aumentada que les conducirá a construir un dispositivo electromagnético
+Consiste en construir un dispositivo electromagnético utilizando la realidad aumentada.
 
 
 **[Hospital virtual](http://iescantabria.com/otros-proyectos/hospital-virtual/)**
