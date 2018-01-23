@@ -4,7 +4,7 @@ El Aprendizaje Basado en Proyectos se puede poner en funcionamiento en cualquier
 
 En esta sección puedes conocer algunas prácticas de referencia en Formación profesional. ¿Empezamos?
 
-## Proyectos transversales
+## Ejemplos de proyectos
 
 **[Magnetismo Aumentado](https://sites.google.com/a/bylinedu.es/proyectoar)**
 
@@ -15,13 +15,11 @@ Consiste en construir un dispositivo electromagnético utilizando la realidad au
 
 **[Hospital virtual](http://iescantabria.com/otros-proyectos/hospital-virtual/)**
 
-Que el alumnado de los ciclos formativos de la familia de sanidad complete su formación conociendo el funcionamiento coordinado de las distintas unidades que se integran en una organización sanitaria-hospitalaria y el papel que cada una de las profesiones sanitarias tiene en dicha organización.
+En este proyecto el alumnado de los ciclos formativos de la familia de sanidad completa su formación conociendo el funcionamiento coordinado de las distintas unidades que se integran en una organización sanitaria-hospitalaria y el papel que cada una de las profesiones sanitarias tiene en dicha organización.
 
+**[Exportación 0,0](https://sites.google.com/a/escuelaprofesionalxavier.com/cerocomacero/)**
 
-
-
-**[EXPORTACIÓN 0,0](https://sites.google.com/a/escuelaprofesionalxavier.com/cerocomacero/)**
-Es un proyecto realizado en el Ciclo de Grado Superior de Comercio Internacional
+Con este proyecto se pretende iniciar al alumnado del Ciclo de Grado Superior de Comercio Internacional en el desarrollo de habilidades, capacidades y competencias profesionales creando una página web para una empresa que quiere expandirse a nivel internacional.
 
 
 ## Otros proyectos
@@ -29,8 +27,7 @@ Es un proyecto realizado en el Ciclo de Grado Superior de Comercio Internacional
 
 **Mil sonrisas para mil caras**
 
-Un proyecto de aprendizaje-servicio realizado en el Ciclo Formativo de Atención a personas en situación de dependencia en colaboración con ADEMNA (Asociación de Esclerosis Múltiple de Navarra)
-El proyecto se centra en  prestar un servicio que consiste en el diseño y ejecución de una actividad de ocio dirigida a los usuarios y usuarias del Centro de día de dicha asociación.
+Un proyecto de aprendizaje-servicio realizado en el Ciclo Formativo de Atención a personas en situación de dependencia en colaboración con ADEMNA (Asociación de Esclerosis Múltiple de Navarra). El proyecto se centra en  prestar un servicio que consiste en el diseño y ejecución de una actividad de ocio dirigida a los usuarios y usuarias del Centro de día de dicha asociación.
 
 
 **Diseña un programa de radio**
