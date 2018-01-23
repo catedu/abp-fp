@@ -12,7 +12,6 @@
     * [8 Elementos esenciales para ABP](8_elementos_esenciales_para_abp.md)
     * [El proyecto como plato principal](el_proyecto_como_plato_principal.md)
   * [Prácticas de referencia en ABP](practicas_de_referencia_en_abp.md)
-    * [Educación Infantil y Primaria](educacion_infantil_y_primaria.md)
     * [Educación Secundaria](educacion_secundaria.md)
     * [Formación Profesional](formacion-profesional.md)
 
