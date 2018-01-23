@@ -8,9 +8,7 @@ En esta sección puedes conocer algunas prácticas de referencia en Formación p
 
 **[Magnetismo Aumentado](https://sites.google.com/a/bylinedu.es/proyectoar)**
 
-El proyecto se desarrolla dentro del módulo de Electrotecnia de los Ciclos Formativos de Grado Medio, de la familia profesional de Instalaciones Eléctricas y Automáticas.
-
-Consiste en construir un dispositivo electromagnético utilizando la realidad aumentada.
+El proyecto se desarrolla dentro del módulo de Electrotecnia de los Ciclos Formativos de Grado Medio, de la familia profesional de Instalaciones Eléctricas y Automáticas. Los alumnos tienen que construir un dispositivo electromagnético utilizando la realidad aumentada.
 
 
 **[Hospital virtual](http://iescantabria.com/otros-proyectos/hospital-virtual/)**
